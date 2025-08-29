@@ -1,1 +1,2 @@
 for the first challenge (linkedin training)
+this is a test of commit command without adding a -m (message)
